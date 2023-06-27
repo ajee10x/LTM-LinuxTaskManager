@@ -36,13 +36,9 @@ The LTM project relies on various open-source libraries and resources. Special t
 
 ## Contributing
 
-Contributions to LTM are welcome! If you'd like to contribute, please follow these steps:
+Contributions to LTM are welcome!
+Contributions to this project are welcome. If you have any suggestions, bug reports, or feature requests, please open an issue or submit a pull request.
 
-1. Fork the repository on GitHub.
-2. Create a new branch for your feature or bug fix.
-3. Make your modifications and commit your changes.
-4. Push your branch to your forked repository.
-5. Submit a pull request on GitHub.
 
 ## Screenshots
 
@@ -54,4 +50,5 @@ Contributions to LTM are welcome! If you'd like to contribute, please follow the
 ![Alt text](/screenshots/PCdetials.jpg?raw=true "Process")
 ![Alt text](/screenshots/ServiceControl.jpg?raw=true "Process")
 
-
+## License
+This project is licensed under the [Apache-2.0 license](LICENSE).

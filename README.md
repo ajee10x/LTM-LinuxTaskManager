@@ -17,11 +17,8 @@ LTM (Linux Task Manager) is an open-source project that provides a graphical use
 - Startup Applications: Configure applications to launch at system startup.
 - System Performance Monitoring: Make it more advance.
 - About us: Make it more professional.
-
-## Enhancment to make in the future:
 - Fix the refresh problem by making the refresh from the Main.java to all the files by removing the refresh by each file on itself.
  
-
 ## Launch the application
 java -jar LTM.jar 
 

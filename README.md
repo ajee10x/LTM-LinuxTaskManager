@@ -1,5 +1,4 @@
-# Linux Task Manager (LTM)
-# Version 1.0
+# Linux Task Manager (LTM) Version 1.0
 
 LTM (Linux Task Manager) is an open-source project that provides a graphical user interface (GUI) for monitoring and managing various aspects of a Linux system. It offers a convenient way to view and control processes, monitor system performance, manage startup applications, access user information, and handle services.
 
@@ -50,7 +49,11 @@ Contributions to LTM are welcome! If you'd like to contribute, please follow the
 ## Screenshots
 
 ![Alt text](/screenshots/Process.jpg?raw=true "Process")
-
-
+![Alt text](/screenshots/SystemPerformanceMonitoring.jpg?raw=true "Process")
+![Alt text](/screenshots/ApplicationHistory.jpg?raw=true "Process")
+![Alt text](/screenshots/StartupApplications.jpg?raw=true "Process")
+![Alt text](/screenshots/UserManagement.jpg?raw=true "Process")
+![Alt text](/screenshots/PCdetials.jpg?raw=true "Process")
+![Alt text](/screenshots/ServiceControl.jpg?raw=true "Process")
 
 

@@ -28,6 +28,10 @@ java -jar LTM.jar
 - JavaSE-1.8
 - Shell script
 
+## Systems are tested on:
+- Debian.
+- Kali Linux.
+
 ## Acknowledgements
 
 The LTM project relies on various open-source libraries and resources. Special thanks to the contributors of these projects for their valuable work.
@@ -39,6 +43,8 @@ The LTM project relies on various open-source libraries and resources. Special t
 Contributions to LTM are welcome!
 Contributions to this project are welcome. If you have any suggestions, bug reports, or feature requests, please open an issue or submit a pull request.
 
+## License
+This project is licensed under the [Apache-2.0 license](LICENSE).
 
 ## Screenshots
 
@@ -50,5 +56,4 @@ Contributions to this project are welcome. If you have any suggestions, bug repo
 ![Alt text](/screenshots/PCdetials.jpg?raw=true "Process")
 ![Alt text](/screenshots/ServiceControl.jpg?raw=true "Process")
 
-## License
-This project is licensed under the [Apache-2.0 license](LICENSE).
+

@@ -32,7 +32,7 @@ java -jar LTM.jar
 - Debian.
 - Kali Linux.
 
-## Projects Directory/Structure/Tree
+## Project Directory/Structure/Tree
     .
 
     └── LICENSE

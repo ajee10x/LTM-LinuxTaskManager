@@ -120,7 +120,7 @@ Contributions to LTM are welcome!
 Contributions to this project are welcome. If you have any suggestions, bug reports, or feature requests, please open an issue or submit a pull request.
 
 ## License
-This project is licensed under the [Apache-2.0 license](LICENSE).
+This project is licensed under the [MIT license](LICENSE).
 
 ## Screenshots
 
